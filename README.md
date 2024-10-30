@@ -15,15 +15,15 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 | 徽标 | 成就                | 解锁方法                                      |
 | ---- | ------------------- | --------------------------------------------- |
-|      | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
-|      | **Quickdraw**         | 提交 issue 或 PR 并在 5 分钟内关闭            |
-|      | **Starstruck**        | 个人项目获得 16 stars                        |
-|      | **Galaxy Brain**      | 在 discussion 中回答并被标记为最佳答案 2 次   |
-|      | **Pull Shark**        | 提交的 PR 被合并 2 次                         |
-|      | **YOLO**              | 不评审他人的 PR，直接 Merge                   |
-|      | **Public Sponsor**    | 通过 GitHub Sponsors 赞助他人的开源工作        |
-|      | **Arctic Code Vault Contributor** | **绝版** — 提交的代码被 GitHub Archive 北极代码库收录 |
-|      | **Mars 2020 Contributor**        | **绝版** — 提交的代码被 Mars 2020 Helicopter Mission 火星代码库收录 |
+| ![Pair Extraordinaire](file-bbmWKZSzpq6jLXSIwuK9siw8) | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
+| ![Quickdraw](file-aVmE5mHUOZA5dDnctpJoGsEo) | **Quickdraw**         | 提交 issue 或 PR 并在 5 分钟内关闭            |
+| ![Starstruck](file-PcoGuLmI41nRNQeu2VICwqAq) | **Starstruck**        | 个人项目获得 16 stars                        |
+| ![Galaxy Brain](file-rmBxie9igMI9XPsXkS4EEk9H) | **Galaxy Brain**      | 在 discussion 中回答并被标记为最佳答案 2 次   |
+| ![Pull Shark](file-a5qdGDbjZuPzr5AzqO2oVfqL) | **Pull Shark**        | 提交的 PR 被合并 2 次                         |
+| ![YOLO](file-s3g0kvb3Oul1sjKW08ymH4dQ) | **YOLO**              | 不评审他人的 PR，直接 Merge                   |
+| ![Public Sponsor](file-MhTqWSOCGDxrq3R52XhpjEOl) | **Public Sponsor**    | 通过 GitHub Sponsors 赞助他人的开源工作        |
+| ![Arctic Code Vault Contributor](file-pckhce0zEHkVo0E8VEubI7wg) | **Arctic Code Vault Contributor** | **绝版** — 提交的代码被 GitHub Archive 北极代码库收录 |
+| ![Mars 2020 Contributor](file-c3leN6fBG9gnpdzZvQu0HoTy) | **Mars 2020 Contributor**        | **绝版** — 提交的代码被 Mars 2020 Helicopter Mission 火星代码库收录 |
 
 ## 等级
 
