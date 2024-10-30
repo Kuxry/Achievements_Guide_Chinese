@@ -40,6 +40,7 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 ### Pair Extraordinaire (优秀配对)
 <img src="/images/pair-extraordinaire-default.png" width="50">
+
 - **解锁要求**: 在一次 PR 中与他人共同完成
 - **提升等级**:
   - 2级 🥉：与他人共同完成 Pull Request 10 次
@@ -48,14 +49,17 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 ### Quickdraw (快速拉动)
 <img src="/images/quickdraw-default.png" width="50">
+
 - **解锁要求**: 提交 issue 或 PR 并在 5 分钟内关闭
 
 ### YOLO (大胆去做)
 <img src="/images/yolo-default.png" width="50">
+
 - **解锁要求**: 合并未经代码审查的 Pull Request
 
 ### Pull Shark (鲨鱼拉)
 <img src="/images/pull-shark-default.png" width="50">
+
 - **解锁要求**: 提交 PR 被合并 2 次
 - **提升等级**:
   - 2级 🥉：提交 PR 被合并 16 次
@@ -64,6 +68,7 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 ### Starstruck (追星族)
 <img src="/images/starstruck-default.png" width="50">
+
 - **解锁要求**: 拥有一个获得 16 stars 的仓库
 - **提升等级**:
   - 2级 🥉：获得 128 stars
@@ -72,6 +77,7 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 ### Galaxy Brain (银河之脑)
 <img src="/images/galaxy-brain-default.png" width="50">
+
 - **解锁要求**: 在 discussion 中回答并被标记为最佳答案 2 次
 - **提升等级**:
   - 2级 🥉：最佳答案 8 次
@@ -80,16 +86,19 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 ### Public Sponsor (公共赞助商)
 <img src="/images/public-sponsor-default.png" width="50">
+
 - **解锁要求**: 通过 GitHub Sponsors 赞助其他开源项目
 
 ## 特殊成就 (已绝版)
 
 ### Arctic Code Vault Contributor (北极代码库贡献者)
 <img src="/images/arctic-code-vault-contributor-default.png" width="50">
+
 2020 年 2 月，GitHub 对每个活跃的公共仓库进行快照捕获，并保存在北极代码库中，参与者获得 Arctic Code Vault 徽章。
 
 ### Mars 2020 Contributor (火星代码库贡献者)
 <img src="/images/mars-2020-contributor-default.png" width="50">
+
 2021 年火星直升机成功首飞，相关的开源代码贡献者获得 Mars 2020 Contributor 徽章。
 
 ## 总结
