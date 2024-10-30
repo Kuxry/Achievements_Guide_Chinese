@@ -61,6 +61,7 @@ Github 在 2022 年 6 月 9 日隆重推出了全新的成就勋章系统，来�
 - **提升等级**: 无提升等级
 
 ### YOLO (大胆去做)
+原意是 You Only live Once, 我理解的意思就是 生命只有一次 -> 你完成这个成就就活不成了 🤣
 <img src="/images/yolo-default.png" width="50">
 
 - **解锁要求**: 合并了一个未经代码审查的 Pull Request，自己发起的 PR 也算（强烈建议 🤣!）
