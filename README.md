@@ -15,15 +15,16 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 | 徽标 | 成就                | 解锁方法                                      |
 | ---- | ------------------- | --------------------------------------------- |
-| ![Pair Extraordinaire](/images/pair-extraordinaire-default.png) | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
-| ![Quickdraw](/images/quickdraw-default.png) | **Quickdraw**         | 提交 issue 或 PR 并在 5 分钟内关闭            |
-| ![Starstruck](/images/starstruck-default.png) | **Starstruck**        | 个人项目获得 16 stars                        |
-| ![Galaxy Brain](/images/galaxy-brain-default.png) | **Galaxy Brain**      | 在 discussion 中回答并被标记为最佳答案 2 次   |
-| ![Pull Shark](/images/pull-shark-default.png)| **Pull Shark**        | 提交的 PR 被合并 2 次                         |
-| ![YOLO](/images/yolo-default.png) | **YOLO**              | 不评审他人的 PR，直接 Merge                   |
-| ![Public Sponsor](/images/public-sponsor-default.png) | **Public Sponsor**    | 通过 GitHub Sponsors 赞助他人的开源工作        |
-| ![Arctic Code Vault Contributor](/images/arctic-code-vault-contributor-default.png) | **Arctic Code Vault Contributor** | **绝版** — 提交的代码被 GitHub Archive 北极代码库收录 |
-| ![Mars 2020 Contributor(/images/mars-2020-contributor-default.png) | **Mars 2020 Contributor**        | **绝版** — 提交的代码被 Mars 2020 Helicopter Mission 火星代码库收录 |
+| <img src="/images/pair-extraordinaire-default.png" width="50"> | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
+| <img src="/images/quickdraw-default.png" width="50"> | **Quickdraw**         | 提交 issue 或 PR 并在 5 分钟内关闭            |
+| <img src="/images/starstruck-default.png" width="50"> | **Starstruck**        | 个人项目获得 16 stars                        |
+| <img src="/images/galaxy-brain-default.png" width="50"> | **Galaxy Brain**      | 在 discussion 中回答并被标记为最佳答案 2 次   |
+| <img src="/images/pull-shark-default.png" width="50">| **Pull Shark**        | 提交的 PR 被合并 2 次                         |
+| <img src="/images/yolo-default.png" width="50"> | **YOLO**              | 不评审他人的 PR，直接 Merge                   |
+| <img src="/images/public-sponsor-default.png" width="50"> | **Public Sponsor**    | 通过 GitHub Sponsors 赞助他人的开源工作        |
+| <img src="/images/arctic-code-vault-contributor-default.png" width="50"> | **Arctic Code Vault Contributor** | **绝版** — 提交的代码被 GitHub Archive 北极代码库收录 |
+| <img src="/images/mars-2020-contributor-default.png" width="50"> | **Mars 2020 Contributor**        | **绝版** — 提交的代码被 Mars 2020 Helicopter Mission 火星代码库收录 |
+
 
 ## 等级
 
