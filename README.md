@@ -15,7 +15,7 @@ Github 于 2022 年 6 月 9 日推出了全新的成就勋章系统，表彰卓�
 
 | 徽标 | 成就                | 解锁方法                                      |
 | ---- | ------------------- | --------------------------------------------- |
-| ![Pair Extraordinaire](file-bbmWKZSzpq6jLXSIwuK9siw8) | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
+| ![Pair Extraordinaire](/images/pair-extraordinaire-default.png) | **Pair Extraordinaire** | 与他人合著一次 PR (Pull Request)              |
 | ![Quickdraw](file-aVmE5mHUOZA5dDnctpJoGsEo) | **Quickdraw**         | 提交 issue 或 PR 并在 5 分钟内关闭            |
 | ![Starstruck](file-PcoGuLmI41nRNQeu2VICwqAq) | **Starstruck**        | 个人项目获得 16 stars                        |
 | ![Galaxy Brain](file-rmBxie9igMI9XPsXkS4EEk9H) | **Galaxy Brain**      | 在 discussion 中回答并被标记为最佳答案 2 次   |
